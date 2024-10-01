@@ -1,2 +1,2 @@
 # ggiooni.github.io
-Web Design &amp; Development | Mary Smith
+Web Design &amp; Development | Nicolas Boggioni Troncoso
