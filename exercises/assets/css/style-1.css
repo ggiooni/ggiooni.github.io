@@ -8,8 +8,19 @@ body { line-height: 1.5; min-height: 100vh }
 @media (min-width: 768px ) { body { text-rendering: optimizeLegibility } }
 img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
-/* This is a Comment =D*/
+body { background-color: antiquewhite; }
+/* PADDING AROUND WEB PAGE BODY CONTENT*/
+/* Desktops */
+@media (min-width: 768px) {
+    body { padding: 4% 20% }
+ }
+ 
+ /* Mobiles */
+ @media (max-width: 767px) {
+    body { padding: 8% 5% }
+ }
 h1 {
+    color: brown;
     font-size: 84px;
     text-align: center;
     font-weight: normal;
@@ -33,3 +44,4 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
 }
+a { color: brown; }
