@@ -21,12 +21,14 @@ body { background-color: lightgreen; }
  }
 
 /* ================= ENDS ================ */
-
 body {
     text-align: center;
     font-family: sans-serif;
 }
-
+body.homepage {
+    background-color: #f0f0f0;
+    background-image: url('assets/img/pexels-padrinan-19670.jpg');
+}
 h1 {
     font-size: 78px;
     font-weight: normal;
